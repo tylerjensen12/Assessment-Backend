@@ -1,0 +1,32 @@
+[
+    {
+      "id": 1,
+      "title": "3x3",
+      "rating": 5,
+      "imageURL" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAJBEecDwKsaMmobECcRJD64Qt-iEOqY6WFw&usqp=CAU"
+    },
+    {
+      "id": 2,
+      "title": "Megaminx",
+      "rating": 4,
+      "imageURL" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHSkQVuq-fLHB67kM8TIrgqawkRXjLDJwL4A&usqp=CAU"
+    },
+    {
+      "id": 3,
+      "title": "7x7",
+      "rating": 2,
+      "imageURL" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFNUF2eyE7yt_6z94CZGiWlYsHQx7NpzTRPTh72Zi9zLozDQLAZ6bhtkXB6NzqDwV784g&usqp=CAU"
+    },
+    {
+      "id": 4,
+      "title": "Floppy cube",
+      "rating": 5,
+      "imageURL" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_ZlUpgkmMm0YJ1vjn-eE0mxGfmTaggJ1irA&usqp=CAU"
+    },
+    {
+      "id": 5,
+      "title": "Axis cube",
+      "rating": 5,
+      "imageURL" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAq7tKPAjNmKfJ5JPNyRXv9dLKYhcKIFBPeA&usqp=CAU"
+    }
+]
